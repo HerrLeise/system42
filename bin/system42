@@ -1,0 +1,4 @@
+#!/bin/bash
+
+source $SYSTEM42_PATH/bin/system42-sub/header.sh
+source $SYSTEM42_PATH/bin/system42-sub/menu.sh

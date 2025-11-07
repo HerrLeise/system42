@@ -1,4 +1,4 @@
 #!/bin/bash
 
 xdg-open "https://manual.omakub.org" &>/dev/null
-source $OMAKUB_PATH/bin/omakub-sub/menu.sh
+source $SYSTEM42_PATH/bin/system42-sub/menu.sh
